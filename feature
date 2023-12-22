@@ -1,1 +1,1 @@
-conflict 2
+conflict 1 not 2
