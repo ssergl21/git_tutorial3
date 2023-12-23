@@ -1,1 +1,1 @@
-conflict 1 not 2
+feature1
